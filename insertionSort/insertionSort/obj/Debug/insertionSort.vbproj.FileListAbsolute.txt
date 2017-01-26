@@ -1,0 +1,9 @@
+C:\Users\mastermind\Desktop\WorkSpace\insertionSort\insertionSort\bin\Debug\insertionSort.exe.config
+C:\Users\mastermind\Desktop\WorkSpace\insertionSort\insertionSort\bin\Debug\insertionSort.exe
+C:\Users\mastermind\Desktop\WorkSpace\insertionSort\insertionSort\bin\Debug\insertionSort.pdb
+C:\Users\mastermind\Desktop\WorkSpace\insertionSort\insertionSort\bin\Debug\insertionSort.xml
+C:\Users\mastermind\Desktop\WorkSpace\insertionSort\insertionSort\obj\Debug\insertionSort.Resources.resources
+C:\Users\mastermind\Desktop\WorkSpace\insertionSort\insertionSort\obj\Debug\insertionSort.vbproj.GenerateResource.Cache
+C:\Users\mastermind\Desktop\WorkSpace\insertionSort\insertionSort\obj\Debug\insertionSort.exe
+C:\Users\mastermind\Desktop\WorkSpace\insertionSort\insertionSort\obj\Debug\insertionSort.xml
+C:\Users\mastermind\Desktop\WorkSpace\insertionSort\insertionSort\obj\Debug\insertionSort.pdb
